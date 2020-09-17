@@ -8,7 +8,7 @@ pipeline {
         }
     stage("test")
         {
-        echo 'in the test'
+        echo 'in the test automation'
         }
 
     stage("deploy")
