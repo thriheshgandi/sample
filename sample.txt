@@ -1,5 +1,5 @@
 m1
 this is test 
 a=10I
-B=20i
+B=20666
 c = 200
